@@ -18,7 +18,7 @@ See **`project-brief.md`** for the full project brief.
 - **Week 1 — Project Introduction and Scope:** [Project Brief](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/project-brief.md)
 - **Week 2 — Data Acquisition and Preparation:** [Data Notes](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/data-notes.md)
 - **Week 3 — Prepared Data and Quality Checks:** [Data Quality Notes](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/data-notes.md)
-- **Week 4 — Spatial Analysis and Findings:** [Month 1 Summary](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/month-1-summary.md) | [5 km Health Facility Buffer Map](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/5km-buffer-oyo-state.png)
+- **Week 4 — Spatial Analysis and Findings:** [Month 1 Summary](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/month-1-summary.md) | [5 km Health Facility Buffer Map](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/5km_Buffer_Map.png)
 
 ### Month 1 Deliverables
 
