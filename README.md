@@ -25,7 +25,7 @@ See **`project-brief.md`** for the full project brief.
 - [Project Brief](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/project-brief.md)
 - [Data Preparation and Quality Notes](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/data-notes.md)
 - [Month 1 Summary and Findings](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/month-1-summary.md)
-- [5 km Health Facility Buffer Map](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/5km-buffer-oyo-state.png)
+- [5 km Health Facility Buffer Map](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/5km_Buffer_Map.png)
 
 Month 1 focused on building foundational GIS knowledge, understanding geospatial data and its sources, preparing datasets for analysis, and applying basic spatial analysis techniques.
 
