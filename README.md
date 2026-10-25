@@ -37,5 +37,3 @@ Key learning areas included **coordinate reference systems (CRS), geospatial dat
 
 See **[Month 1 Summary and Findings](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/month-1-summary.md)** for more details.
 
-
-Explore the complete project and follow my progress: [GeoDev Lab Project — GitHub](https://github.com/ganiyu-kowiy/geodev-lab-project)
