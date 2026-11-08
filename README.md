@@ -37,3 +37,5 @@ Key learning areas included **coordinate reference systems (CRS), geospatial dat
 
 See **[Month 1 Summary and Findings](https://github.com/ganiyu-kowiy/geodev-lab-project/blob/main/month-1-summary.md)** for more details.
 
+## Month 2: development environment and early Python
+Week 5: set up Python, VS code and terminal. hello.py runs.
