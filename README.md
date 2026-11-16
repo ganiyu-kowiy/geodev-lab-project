@@ -42,3 +42,24 @@ See **[Month 1 Summary and Findings](https://github.com/ganiyu-kowiy/geodev-lab-
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version
 - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 - Week 8: inspect_data.py summarises latitude and longitude in my Oyo State health facilities data.
+- Week 9: Refactored the inspection program into small functions, calculated count, smallest and largest values, handled empty data, and summarised real columns from Month 1 data.
+
+## Month 2 Reflection — Development Environment and Early Python
+
+Month 2 was focused on developing my foundational knowledge of Python programming and exploring how Python can be applied to data processing and analysis.
+
+In Week 5, I installed Python, configured Visual Studio Code (VS Code) and the terminal, and successfully wrote and executed my first Python program, `hello.py`. This introduced me to the basic programming environment and how to execute Python scripts.
+
+In Week 6, I installed and configured `uv`, verified that it was working correctly, and used it to install the `pandas` library for data manipulation and analysis.
+
+During Week 7, I developed a Python script named `analyse.py` to read data from `wards.csv`, convert ward areas into the required units, and classify the wards based on their area values.
+
+In Week 8, I extended my understanding of data inspection by writing code to calculate basic statistical information, including the total number of records, minimum values, and maximum values.
+
+By Week 9, I improved my earlier inspection program by restructuring it into smaller and reusable functions. I learned how to define and call functions, return values, handle empty datasets, and summarise actual columns from my Month 1 project data.
+
+These activities strengthened my understanding of Python fundamentals, CSV data processing, functions, and code organisation. One important lesson I learned was the value of writing reusable and well-structured code, handling possible errors or empty datasets, and separating data calculations from the presentation of results.
+
+Overall, Month 2 marked an important step in my learning journey. I moved beyond simply setting up a programming environment and began developing practical scripts for data analysis. I now have a better understanding of how Python can support GIS workflows, automate repetitive tasks, and improve geospatial data management.
+
+In the coming month, I look forward to improving my Python and pandas skills and exploring how programming can be integrated with GIS operations to solve practical geospatial problems.
